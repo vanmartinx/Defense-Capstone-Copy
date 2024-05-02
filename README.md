@@ -1,3 +1,5 @@
+THIS IS A COPY OF THE ADMIN SIDE OF OUR CAPSTONE SYSTEM IN WEB
+
 echo "# RentHive-Application" >> README.md
 git init
 git remote add origin https://github.com/rujieafk/finalbackup.git
